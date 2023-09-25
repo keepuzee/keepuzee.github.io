@@ -20,7 +20,7 @@ title                    : "Tori's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Youji Hwang"
-description              : "이것저것 시도해보깅"
+description              : "이것저것 시도해보는 블로그"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Tori"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "이것저것 시도해보는 블로그"
+  bio              : "이것저것 시도해보깅"
   location         : 
   email            :
   links:
